@@ -17,7 +17,7 @@ Simple and interactive CLI experience.
 Getting Started:-
 
 1. Clone or Download this project
-git clone https://github.com/your-username/guess-number-game.git
+git clone https://github.com/sunil-prajapati-04/Guess-Game-Cli.git
 cd guess-number-game
 
 2. Run the game
